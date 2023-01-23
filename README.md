@@ -1,0 +1,2 @@
+# magicmirror
+config etc.
